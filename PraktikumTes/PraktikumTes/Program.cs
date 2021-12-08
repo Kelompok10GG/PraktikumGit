@@ -7,4 +7,5 @@ Console.WriteLine("Nurfauzan Bimantoro 20.11.3432");
 Console.WriteLine("Dimas Zaldiyanto 20.11.3433");
 Console.WriteLine("Rifqi Hilal Bhahari 20.11.3434");
 Console.WriteLine("Ammar Kanz Diwani 20.11.3435");
+Console.WriteLine("Andrew Wahyu Bagus Saputra 20.11.3430");
 Console.WriteLine("Tugas Praktikum Pemrograman Lanjut");
